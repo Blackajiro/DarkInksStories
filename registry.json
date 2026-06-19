@@ -4,6 +4,11 @@
       "id": "cat_souls",
       "version": "1.0.1",
       "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/cats/cat_souls.kinkpack"
+    },
+    {
+      "id": "test_effect",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/Test Effect/test_effect.kinkpack"
     }
   ]
 }
