@@ -3,15 +3,15 @@
     {
       "id": "innkeeper_darkinks",
       "version": "1.0.2",
-      "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/innkeeper/InnkeeperDarkInks.kinkpack",
+      "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/innkeeper/Innkeeper.kinkpack",
       "sha256": "95cc93ab4389fe4d7783e340d7bcc392dfeed42dbbf7cfb6a3a7f612c9fa6d26",
       "channel": "public"
     },
     {
       "id": "intercept_darkinks",
-      "version": "1.0.0",
-      "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/intercept/TheInterceptDarkInks.kinkpack",
-      "sha256": "974a432da530b7a76aba3bf91191e82c679c7410ff7825a2a48b675064825569",
+      "version": "1.0.1",
+      "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/intercept/TheIntercept.kinkpack",
+      "sha256": "aff1d689c98c5bdef2ac15a34fd530440822ff28f0270fe9585a573fa8019523",
       "channel": "public"
     },
     {
