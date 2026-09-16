@@ -3,18 +3,20 @@
     {
       "id": "cat_souls",
       "version": "1.0.1",
-      "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/cats/cat_souls.kinkpack"
+      "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/cats/cat_souls.kinkpack",
+      "sha256": "ba1cece398156d13a7876640823d11ad837a10358bbd3e4c3aa3b49838ae13ce"
     },
     {
       "id": "test_effect",
       "version": "1.0.0",
-      "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/test_effect/test_effect.kinkpack"
+      "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/test_effect/test_effect.kinkpack",
+      "sha256": "95fc0ed0609b14f76598f20e85ea3b9d454f639fa1a21dceef7a4145aa997317"
     },
     {
       "id": "innkeeper",
       "version": "1.0.1",
       "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/innkeeper/InnkeeperDarkInks.kinkpack",
-      "sha256": "d3df731eb232de0dff2f2e63a8cf4f24be3906935675ada0d23d832829f787b2"
+      "sha256": "d3023137cded099b71f5679221d974e1640ae24595d124bc6870ec82efbeff61"
     }
   ]
 }
