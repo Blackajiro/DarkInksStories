@@ -9,6 +9,12 @@
       "id": "test_effect",
       "version": "1.0.0",
       "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/test_effect/test_effect.kinkpack"
+    },
+    {
+      "id": "innkeeper_darkinks",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/innkeeper_darkinks/innkeeper_darkinks.kinkpack",
+      "sha256": "d3df731eb232de0dff2f2e63a8cf4f24be3906935675ada0d23d832829f787b2"
     }
   ]
 }
