@@ -2,16 +2,16 @@
   "stories": [
     {
       "id": "innkeeper_darkinks",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/innkeeper/Innkeeper.kinkpack",
-      "sha256": "95cc93ab4389fe4d7783e340d7bcc392dfeed42dbbf7cfb6a3a7f612c9fa6d26",
+      "sha256": "276117fb0beb483dea1b4f02354575fdfdc03787a5f908a9188dfc6372f270e0",
       "channel": "public"
     },
     {
       "id": "intercept_darkinks",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/intercept/TheIntercept.kinkpack",
-      "sha256": "aff1d689c98c5bdef2ac15a34fd530440822ff28f0270fe9585a573fa8019523",
+      "sha256": "d40d18259a2d30c8c5bc422d98ba7c6eb21b3a111cf802ac082d8a588b117414",
       "channel": "public"
     },
     {
