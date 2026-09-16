@@ -1,22 +1,32 @@
 {
   "stories": [
     {
-      "id": "cat_souls",
-      "version": "1.0.1",
-      "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/cats/cat_souls.kinkpack",
-      "sha256": "ba1cece398156d13a7876640823d11ad837a10358bbd3e4c3aa3b49838ae13ce"
-    },
-    {
-      "id": "test_effect",
-      "version": "1.0.0",
-      "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/test_effect/test_effect.kinkpack",
-      "sha256": "95fc0ed0609b14f76598f20e85ea3b9d454f639fa1a21dceef7a4145aa997317"
-    },
-    {
       "id": "innkeeper_darkinks",
       "version": "1.0.1",
       "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/innkeeper/InnkeeperDarkInks.kinkpack",
-      "sha256": "d3023137cded099b71f5679221d974e1640ae24595d124bc6870ec82efbeff61"
+      "sha256": "0f45ae65e44e8c002bebfec6842895f24682539dfe268d357e94bc483e0829cf",
+      "channel": "public"
+    },
+    {
+      "id": "taglab",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/taglab/TagLab.kinkpack",
+      "sha256": "50f93b87142a24ab9f129dfc7828ae4811fd818a7552cae0b6ba84049fee8fae",
+      "channel": "development"
+    },
+    {
+      "id": "combat",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/combat/Combat.kinkpack",
+      "sha256": "cfad699910375a6dbe96e70ab5f4c8b543233c634eb8fb12705ddae8853897d0",
+      "channel": "development"
+    },
+    {
+      "id": "qa_showcase",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/kinky_feature_showcase/QA_Showcase.kinkpack",
+      "sha256": "4f06fe46dc76ead8fc7093f00643711436a6887018ca1341ee379b38212273e6",
+      "channel": "development"
     }
   ]
 }
