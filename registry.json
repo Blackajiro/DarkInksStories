@@ -2,9 +2,9 @@
   "stories": [
     {
       "id": "innkeeper_darkinks",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/innkeeper/InnkeeperDarkInks.kinkpack",
-      "sha256": "0f45ae65e44e8c002bebfec6842895f24682539dfe268d357e94bc483e0829cf",
+      "sha256": "95cc93ab4389fe4d7783e340d7bcc392dfeed42dbbf7cfb6a3a7f612c9fa6d26",
       "channel": "public"
     },
     {
