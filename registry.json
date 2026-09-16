@@ -8,6 +8,13 @@
       "channel": "public"
     },
     {
+      "id": "intercept_darkinks",
+      "version": "1.0.0",
+      "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/intercept/TheInterceptDarkInks.kinkpack",
+      "sha256": "974a432da530b7a76aba3bf91191e82c679c7410ff7825a2a48b675064825569",
+      "channel": "public"
+    },
+    {
       "id": "taglab",
       "version": "1.0.0",
       "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/taglab/TagLab.kinkpack",
