@@ -9,9 +9,9 @@
     },
     {
       "id": "intercept_darkinks",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "downloadUrl": "https://github.com/Blackajiro/DarkInksStories/raw/refs/heads/main/intercept/TheIntercept.kinkpack",
-      "sha256": "55d23d1e72f1807b9db623d483ea079f5223d5a72d4aa42b0cf2764e7de10178",
+      "sha256": "c24f47a652104860615e75265b7d025484ba664141b3a59aa006e01c75bcbfdc",
       "channel": "public"
     },
     {
